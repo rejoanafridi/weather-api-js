@@ -1,0 +1,20 @@
+.container {
+	text-align: center;
+}
+/* .search-field {
+	text-align: center;
+} */
+input {
+	height: 50px;
+	width: 400px;
+	border-radius: 30px;
+	outline: none;
+}
+button {
+	padding: 15px;
+	border-radius: 30px;
+}
+button:hover {
+	background-color: #b53b0e;
+	color: #fff;
+}
